@@ -87,6 +87,7 @@ body {
             color: black;
             font-weight: 900;
             text-align: center;
+            margin-bottom: 15px;
 
 
             &:hover {
