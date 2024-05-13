@@ -4,7 +4,7 @@
     <div class="navbar">
         <div class="navbar-left-sec">
             <a href="/memberCenter">會員中心</a>
-            <a href="">課表查詢</a>
+            <a href="/lessonSectionPage">課表查詢</a>
             <a href="">預約體驗</a>
         </div>
         <div class="navbar-title">
